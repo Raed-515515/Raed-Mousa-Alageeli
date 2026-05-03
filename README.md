@@ -1,2 +1,3 @@
-my name is Raed
-Course: Foundation Bootcamp – Programming Track
+# Git & GitHub Homework
+This file is for practicing Git basics.
+
